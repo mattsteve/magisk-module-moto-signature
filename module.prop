@@ -1,0 +1,7 @@
+id=motosignature
+name=Moto Signature
+version=v1
+versionCode=1
+author=mattsteve
+description=Add moto signature libraries for moto time weather app
+template=3
